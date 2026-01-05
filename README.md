@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**adarshsingh58/adarshsingh58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+# 💫 About Me:
 I currently work on large-scale document generation systems, primarily in the OOXML space—parsing, transforming, and generating documents using libraries like Docxtemplator, reliably serving millions of users. My work sits at the intersection of correctness, performance, and maintainability, where small changes can have outsized impact.<br><br>Beyond my day-to-day responsibilities, I’m deeply invested in learning and experimenting with emerging tools and technologies in AI. Lately, that curiosity has translated into building MCP servers, designing agents, and documenting real-world engineering journeys through technical blogs on Medium (https://medium.com/@itsofficiallyadarsh<br>).<br><br>Outside of code, I enjoy balancing screens with experiences—trekking new trails, swimming, playing badminton, long drives in my four-wheeler, and generally exploring whatever life decides to offer next.
 
 
@@ -27,10 +19,3 @@ I currently work on large-scale document generation systems, primarily in the OO
 [![](https://visitcount.itsvg.in/api?id=adarshsingh58&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
