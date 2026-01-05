@@ -12,7 +12,6 @@ I currently work on large-scale document generation systems, primarily in the OO
 ![](https://nirzak-streak-stats.vercel.app/?user=adarshsingh58&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshsingh58&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
